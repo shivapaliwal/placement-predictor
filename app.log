@@ -1,3 +1,5 @@
 2025-07-31 23:42:49,729 - __main__ - INFO - Model loaded successfully!
 2025-07-31 23:46:06,355 - app - INFO - Model loaded successfully!
 2025-07-31 23:46:20,747 - app - INFO - Model loaded successfully!
+2025-07-31 23:58:10,095 - __main__ - INFO - Successful prediction: Yes for student with CGPA: 10.0
+2025-07-31 23:58:10,096 - werkzeug - INFO - 127.0.0.1 - - [31/Jul/2025 23:58:10] "POST /predict HTTP/1.1" 200 -
